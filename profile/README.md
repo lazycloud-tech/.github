@@ -28,7 +28,7 @@ Our team is hard at work building a public portfolio to showcase our innovative 
 Have questions or need assistance? We’d love to hear from you!
 
 * General Inquiries: contact@lazycloud.tech
-* Urgent Golang Service Fixes: Text directly at ryujin@lazycloud.tech
+* Urgent Golang Service Fixes: Text directly at kirin@lazycloud.tech
 
 ----
 
